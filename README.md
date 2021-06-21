@@ -1,16 +1,19 @@
-# counter_app
+<H1 align="center">Contador em Flutter</H1>
 
-A new Flutter project.
+<hr>
 
-## Getting Started
+<h3>Aplicação desenvolvida durante a aula 1 da trilha de Flutter do NLW de junho de 2021.</h3>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">Este foi um pequeno passo para um homem, mas um grande passo para a humanidade... Não, pera rs.</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Trata-se de um contador simples utilizado apenas para conhecer o Flutter, a aplicação consiste em uma única página com cabeçalho, um contador que é acrescido a cada clique de um botão.</p>
+
+<br>
+
+<div align="center">
+  <img src="https://media-exp3.licdn.com/dms/image/C4E22AQFYJM-AU0knqg/feedshare-shrink_2048_1536/0/1624241754887?e=1626912000&v=beta&t=-fFOLhp4bGNBEied4q3gssvFuvyXpnssdyxVHXtb-JA" align="center" />
+</div>
